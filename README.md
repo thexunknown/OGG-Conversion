@@ -45,6 +45,8 @@ Ogg Vorbis is really only intended for audio from 8KHz (8000) to 192KHz (192000)
     24000 - Value used in all RSD formats prior to this update. If you are converting all your RSDs to Ogg Vorbis, use this.
     44100 - CD sample rate, good for Youtube downloaded music and such.
     48000 - DVD sample rate, usually used in higher quality audio & movies.
+    
+
 
 Please be aware that changes to the script affect all files when converting. If you want seperate settings for different files, make copies of the script and change to what you think is best.
 
@@ -57,4 +59,8 @@ Probably more here soon.
 
 ---
 
+Special thanks:
+
+MACCA
+Luca$ Cardellini
 https://en.wikipedia.org/wiki/Vorbis
