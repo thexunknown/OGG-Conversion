@@ -4,7 +4,7 @@ Required tools:
 
     Lucas' Hit & Run: Mod Launcher V1.18.0 or higher from https://donutteam.com/downloads?type=6
     FFMPEG Windows latest build from https://ffmpeg.zeranoe.com/builds/
-    Tweaks to Meta.ini & more in your mod to load OGG files (I feel this is documented somewhere)
+    Tweaks to Meta.ini (add the line RequiredHack=OggVorbisSupport)
     
 This script can convert the following media:
 
@@ -69,7 +69,8 @@ Please be aware that changes to the script affect all files when converting. If 
 Usage:
 
 Place all your media, the script + ffmpeg.exe (located in the "bin" folder of the FFMPEG download) into a folder and run the script.
-Probably more here soon.
+
+Make sure to update your Meta.ini to add "RequiredHack=OggVorbisSupport".
 
 ---
 
