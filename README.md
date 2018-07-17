@@ -11,6 +11,7 @@ This script can convert the following media:
     MP3
     WAV
     RSD
+    RSP
     FLAC
     AAC
     WMA
