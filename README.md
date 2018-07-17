@@ -17,11 +17,13 @@ This script can convert the following media:
     WV
     MP2
     M4A
-    MP4
-    MKV
-    AVI
-    WMV
+    MP4 (Audio extracted from video)
+    MKV (Audio extracted from video)
+    AVI (Audio extracted from video)
+    WMV (Audio extracted from video)
     
-Changes to the script can be made via information from https://ffmpeg.org/documentation.html.
+---
+
+Changes to the script
 
 USAGE: Place all your media, the script + ffmpeg.exe (located in the "bin" folder of the FFMPEG download) into a folder and run the script.
