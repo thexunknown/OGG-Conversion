@@ -33,8 +33,8 @@ Audio bitrate is controlled by the variable
 You can set this to a bitrate from 45K upto 500K, but it's better to stay in this range:
 
     92K - Standard quality audio comparable to standard MP3 quality. Use this for any Youtube converted media or similar.
-    128K - Comparable to good quality MP3. Use this for pretty much any music you own, and you should get a good filesize / quality         ratio.
-    320K - (Overkill) Hi-Fi sounding audio, only should be used for stuff like classical music, or FLAC level audio from a CD. Your mod     probably doesn't need this.
+    128K - Comparable to good quality MP3. Use this for pretty much any music you own, and you should get a good filesize / quality   ratio.
+    320K - (Overkill) Hi-Fi sounding audio, only should be used for stuff like classical music, or FLAC level audio from a CD. Your mod probably doesn't need this.
     
 Sample rate is controlled by the variable
 
