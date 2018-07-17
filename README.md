@@ -62,5 +62,7 @@ Probably more here soon.
 Special thanks:
 
 MACCA
+
 Luca$ Cardellini
+
 https://en.wikipedia.org/wiki/Vorbis
