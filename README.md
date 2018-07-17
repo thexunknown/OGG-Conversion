@@ -46,7 +46,19 @@ Ogg Vorbis is really only intended for audio from 8KHz (8000) to 192KHz (192000)
     44100 - CD sample rate, good for Youtube downloaded music and such.
     48000 - DVD sample rate, usually used in higher quality audio & movies.
     
+The formats that can be converted are explained above, but a full list of audio codecs are featured here, and can probably be converted one way or another: https://www.ffmpeg.org/general.html#Audio-Codecs
 
+Video support for FFMPEG is avaliable here https://www.ffmpeg.org/general.html#Video-Codecs, and with some adjustments to the script, you can extract certain audio tracks too:
+
+    -map 0:0 (First audio track)
+    -map 0:1 (Second audio track)
+    ...and so on
+
+Metadata is removed from the track by adding:
+
+    map_metadata -1
+    
+This makes sure that no information apart from the music stream is left behind, as I'm unsure how Lucas' tool would cope with this.
 
 Please be aware that changes to the script affect all files when converting. If you want seperate settings for different files, make copies of the script and change to what you think is best.
 
