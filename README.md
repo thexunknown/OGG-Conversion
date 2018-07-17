@@ -61,6 +61,8 @@ Metadata is removed from the track by adding:
     
 This makes sure that no information apart from the music stream is left behind, as I'm unsure how Lucas' tool would cope with this.
 
+Mono audio: https://trac.ffmpeg.org/wiki/AudioChannelManipulation
+
 I could add more stuff here, but I'll be around all day and it will be a bit boring. Documentation of how literally everything for this program works is avaliable online, and on the official documentation website, https://ffmpeg.org/documentation.html.
 
 Please be aware that changes to the script affect all files when converting. If you want seperate settings for different files, make copies of the script and change to what you think is best.
