@@ -54,3 +54,7 @@ Usage:
 
 Place all your media, the script + ffmpeg.exe (located in the "bin" folder of the FFMPEG download) into a folder and run the script.
 Probably more here soon.
+
+---
+
+https://en.wikipedia.org/wiki/Vorbis
