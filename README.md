@@ -1,4 +1,4 @@
-OGG-Vorbis conversion tool for the Simpsons: Hit & Run.
+OGG-Vorbis conversion tool for the Simpsons: Hit & Run mods.
 
 Required tools:
 
