@@ -73,6 +73,8 @@ Usage:
 
 Place all your media, the script + ffmpeg.exe (located in the "bin" folder of the FFMPEG download) into a folder and run the script.
 
+You can include media in subfolders too.
+
 Make sure to update your Meta.ini to add "RequiredHack=OggVorbisSupport".
 
 ---
